@@ -7,7 +7,7 @@ djangorestframework==3.12.1
 docx-mailmerge==0.5.0
 docxtpl==0.11.3
 jsonpath==0.82
-mysqlclient==2.0.1
+mysqlclient==2.0.3
 psycopg2-binary==2.8.6
 python-dateutil==2.8.1
 python-memcached==1.59
